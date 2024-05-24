@@ -56,7 +56,7 @@ mongo-id@1.0.9-rc300.2
 npm-mongo@4.16.2-rc300.2
 observe-sequence@2.0.0-alpha300.17
 ordered-dict@1.2.0-rc300.2
-ostrio:flow-router-extra@2.11.0
+ostrio:flow-router-extra@3.11.0-rc300.1
 promise@1.0.0-rc300.2
 random@1.2.2-rc300.2
 react-fast-refresh@0.2.9-rc300.2

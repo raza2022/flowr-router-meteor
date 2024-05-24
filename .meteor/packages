@@ -23,4 +23,4 @@ shell-server@0.6.0-rc300.2            # Server-side component of the `meteor she
 
 hot-module-replacement@0.5.4-rc300.2  # Update code in development without reloading the page
 blaze-hot               # Update files using Blaze's API with HMR
-ostrio:flow-router-extra
+ostrio:flow-router-extra@3.11.0-rc300.1
